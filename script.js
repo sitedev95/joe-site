@@ -16,3 +16,7 @@ document.addEventListener('DOMContentLoaded', function() {
       moveToSlide(currentIndex);
     }, 3000); // Adjust the interval as needed (3000 milliseconds = 3 seconds)
   });
+
+
+  
+
